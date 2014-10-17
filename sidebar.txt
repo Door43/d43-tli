@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tli:home|Door43 (tli)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tli|d43-tli repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tli/archive/master.zip|d43-tli.zip]]
+
+**Recent Changes**
+{{changes>ns = tli}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tli|Ethnologue data]]
+
